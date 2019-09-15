@@ -39,3 +39,4 @@ Access `yourwebsite.com/admin`, e.g. `netfliycms-gridsome.netlify.com/admin` or 
 2. `cd my-gridsome-site` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+5. Keep it going
